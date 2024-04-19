@@ -20,7 +20,7 @@ notebook: Jupyter Notebook report with the analysis.
 
 README.md: You're reading it! Provides an overview of the repository and its contents.
  # How to Use
-Clone the Repository: Clone this repository to your local machine using git clone <repository_url>.
+Clone the Repository: Clone this repository to your local machine using <code> git clone https://github.com/amank-23/International-Debt-Report.git </code>
 
 Set Up MySQL Database: Ensure you have MySQL installed and create a database for the analysis. Import the provided datasets into your MySQL database.
 
